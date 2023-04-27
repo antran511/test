@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/antran/nocobase-app/storage/logs/.ef35576ba1091cfe148272b11d122a4846496533-audit.json",
+    "files": [
+        {
+            "date": 1682506174137,
+            "name": "/Users/antran/nocobase-app/storage/logs/nocobase-2023-04-26-17.log",
+            "hash": "9702f94b9ddf445860f4954684fb03f306a124f9f68e8b488c98d069242558d0"
+        },
+        {
+            "date": 1682506833735,
+            "name": "/Users/antran/nocobase-app/storage/logs/nocobase-2023-04-26-18.log",
+            "hash": "9e0374cfe0d369e1bc55c80be8368dfcc6431c8807e196b1be196879f0fde0cb"
+        }
+    ],
+    "hashType": "sha256"
+}

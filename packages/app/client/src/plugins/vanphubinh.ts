@@ -1,0 +1,1 @@
+export { default } from '@nocobase-app/plugin-vanphubinh/client';
