@@ -8,7 +8,7 @@
     "nocobase": "nocobase",
     "pm": "nocobase pm",
     "dev": "nocobase dev",
-    "start": "export NODE_OPTIONS=--openssl-legacy-provider && nocobase start",
+    "start": "nocobase start",
     "clean": "nocobase clean",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && nocobase build",
     "test": "nocobase test",
