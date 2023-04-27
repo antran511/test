@@ -8,9 +8,9 @@
     "nocobase": "nocobase",
     "pm": "nocobase pm",
     "dev": "nocobase dev",
-    "start": "nocobase start",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider && nocobase start",
     "clean": "nocobase clean",
-    "build": "nocobase build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && nocobase build",
     "test": "nocobase test",
     "postinstall": "nocobase postinstall",
     "lint": "eslint ."
